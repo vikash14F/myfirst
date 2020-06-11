@@ -27,7 +27,7 @@ action = int(input('Enter action\n'))
 if action >0 and action < 5:
     pass
 else:
-    print('invalid action. Dfault action addition is taken')
+    print('Note: Invalid action. Dfault action addition is taken!')
     action = 1
     
     
