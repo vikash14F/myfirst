@@ -23,7 +23,7 @@ def div(x,y):
 x  =int(input('Enter 1st number\n'))
 y = int(input('Enter 2nd number\n'))
 
-action = int(input('Enter action\n'))
+action = int(input('Please Enter you action\n'))
 if action >0 and action < 5:
     pass
 else:
